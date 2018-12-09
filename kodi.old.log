@@ -1,0 +1,208 @@
+﻿15:22:27.389 T:8648  NOTICE: special://profile/ is mapped to: special://masterprofile/
+15:22:27.389 T:8648  NOTICE: -----------------------------------------------------------------------
+15:22:27.389 T:8648  NOTICE: Starting Kodi (17.6 Git:20171114-a9a7a20). Platform: Windows NT x86 32-bit
+15:22:27.389 T:8648  NOTICE: Using Release Kodi x32 build
+15:22:27.389 T:8648  NOTICE: Kodi compiled Dec 10 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+15:22:27.389 T:8648  NOTICE: Running on LENOVO 80XR with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+15:22:27.390 T:8648  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+15:22:27.390 T:8648  NOTICE: Host CPU: Unknown, 4 cores available
+15:22:27.391 T:8648  NOTICE: Desktop Resolution: 1920x1080 32Bit at 60Hz
+15:22:27.391 T:8648  NOTICE: Running with restricted rights
+15:22:27.395 T:8648  NOTICE: Aero is enabled
+15:22:27.395 T:8648  NOTICE: special://xbmc/ is mapped to: C:\Program Files (x86)\Kodi
+15:22:27.395 T:8648  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files (x86)\Kodi
+15:22:27.395 T:8648  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files (x86)\Kodi/addons
+15:22:27.395 T:8648  NOTICE: special://masterprofile/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\userdata
+15:22:27.395 T:8648  NOTICE: special://home/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\
+15:22:27.395 T:8648  NOTICE: special://temp/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\cache
+15:22:27.395 T:8648  NOTICE: special://logpath/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\
+15:22:27.395 T:8648  NOTICE: The executable running is: C:\Program Files (x86)\Kodi\kodi.exe
+15:22:27.405 T:8648  NOTICE: Local hostname: LAPTOP-JJPKCP55
+15:22:27.405 T:8648  NOTICE: Log File is located: C:\Users\szejk\AppData\Roaming\Kodi\/kodi.log
+15:22:27.405 T:8648  NOTICE: -----------------------------------------------------------------------
+15:22:27.415 T:8648  NOTICE: load settings...
+15:22:27.427 T:8648 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+15:22:27.427 T:8648 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+15:22:27.434 T:8648  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+15:22:27.435 T:8648  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+15:22:27.435 T:8648  NOTICE: Default Video Player: VideoPlayer
+15:22:27.435 T:8648  NOTICE: Default Audio Player: paplayer
+15:22:27.435 T:8648  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+15:22:27.435 T:8648  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+15:22:27.435 T:8648  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+15:22:27.437 T:8648  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+15:22:27.437 T:8648  NOTICE: Loaded playercorefactory configuration
+15:22:27.437 T:8648  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+15:22:27.438 T:8648  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+15:22:27.456 T:8648  NOTICE: Running database version Addons27
+15:22:27.570 T:8648  NOTICE: ADDONS: Using repository repository.xbmc.org
+15:22:27.570 T:8648  NOTICE: ADDONS: Using repository repository.kodibrasilforum
+15:22:27.570 T:8648  NOTICE: ADDONS: Using repository repository.mbebe
+15:22:27.570 T:8648  NOTICE: ADDONS: Using repository repository.cherrytv
+15:22:27.570 T:8648  NOTICE: ADDONS: Using repository repository.guilouz
+15:22:27.619 T:328  NOTICE: Found 2 Lists of Devices
+15:22:27.619 T:328  NOTICE: Enumerated DIRECTSOUND devices:
+15:22:27.619 T:328  NOTICE:     Device 1
+15:22:27.619 T:328  NOTICE:         m_deviceName      : {2EB3D776-EAED-47C8-A9D7-3F3DF60C199B}
+15:22:27.619 T:328  NOTICE:         m_displayName     : Speakers - Lautsprecher (Realtek High Definition Audio)
+15:22:27.619 T:328  NOTICE:         m_displayNameExtra: DIRECTSOUND: Lautsprecher (Realtek High Definition Audio)
+15:22:27.619 T:328  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:22:27.619 T:328  NOTICE:         m_channels        : FL,FR
+15:22:27.619 T:328  NOTICE:         m_sampleRates     : 48000
+15:22:27.619 T:328  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+15:22:27.619 T:328  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:22:27.619 T:328  NOTICE:     Device 2
+15:22:27.619 T:328  NOTICE:         m_deviceName      : default
+15:22:27.619 T:328  NOTICE:         m_displayName     : default
+15:22:27.619 T:328  NOTICE:         m_displayNameExtra:
+15:22:27.619 T:328  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:22:27.619 T:328  NOTICE:         m_channels        : FL,FR
+15:22:27.619 T:328  NOTICE:         m_sampleRates     : 48000
+15:22:27.619 T:328  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+15:22:27.619 T:328  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:22:27.619 T:328  NOTICE: Enumerated WASAPI devices:
+15:22:27.619 T:328  NOTICE:     Device 1
+15:22:27.619 T:328  NOTICE:         m_deviceName      : {2EB3D776-EAED-47C8-A9D7-3F3DF60C199B}
+15:22:27.619 T:328  NOTICE:         m_displayName     : Speakers - Lautsprecher (Realtek High Definition Audio)
+15:22:27.619 T:328  NOTICE:         m_displayNameExtra: WASAPI: Lautsprecher (Realtek High Definition Audio)
+15:22:27.619 T:328  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:22:27.619 T:328  NOTICE:         m_channels        : FL,FR
+15:22:27.619 T:328  NOTICE:         m_sampleRates     : 48000,44100
+15:22:27.620 T:328  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+15:22:27.620 T:328  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:22:27.620 T:328  NOTICE:     Device 2
+15:22:27.620 T:328  NOTICE:         m_deviceName      : default
+15:22:27.620 T:328  NOTICE:         m_displayName     : default
+15:22:27.620 T:328  NOTICE:         m_displayNameExtra:
+15:22:27.620 T:328  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:22:27.620 T:328  NOTICE:         m_channels        : FL,FR
+15:22:27.620 T:328  NOTICE:         m_sampleRates     : 48000,44100
+15:22:27.620 T:328  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+15:22:27.620 T:328  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:22:27.671 T:8648  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics, adapter 0.
+15:22:27.671 T:8648  NOTICE: Primary mode: 1920x1080@ 60.00 - Full Screen
+15:22:27.672 T:8648  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+15:22:27.673 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.673 T:8648  NOTICE: Additional mode: 320x240@ 60.00 - Full Screen
+15:22:27.673 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.673 T:8648  NOTICE: Additional mode: 400x300@ 60.00 - Full Screen
+15:22:27.674 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.674 T:8648  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+15:22:27.674 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.674 T:8648  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+15:22:27.675 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.675 T:8648  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+15:22:27.675 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.675 T:8648  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+15:22:27.676 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.676 T:8648  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+15:22:27.676 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.676 T:8648  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+15:22:27.677 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.677 T:8648  NOTICE: Additional mode: 1280x600@ 60.00 - Full Screen
+15:22:27.677 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.677 T:8648  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+15:22:27.677 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.678 T:8648  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+15:22:27.678 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.678 T:8648  NOTICE: Additional mode: 1280x800@ 60.00 - Full Screen
+15:22:27.679 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.679 T:8648  NOTICE: Additional mode: 1280x960@ 60.00 - Full Screen
+15:22:27.679 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.679 T:8648  NOTICE: Additional mode: 1280x1024@ 60.00 - Full Screen
+15:22:27.680 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.680 T:8648  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+15:22:27.680 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.680 T:8648  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+15:22:27.681 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.681 T:8648  NOTICE: Additional mode: 1400x1050@ 60.00 - Full Screen
+15:22:27.681 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.681 T:8648  NOTICE: Additional mode: 1440x900@ 60.00 - Full Screen
+15:22:27.682 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.682 T:8648  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+15:22:27.682 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.682 T:8648  NOTICE: Additional mode: 1680x1050@ 60.00 - Full Screen
+15:22:27.683 T:8648  NOTICE: Previous line repeats 2 times.
+15:22:27.683 T:8648  NOTICE: Additional mode: 1920x1080@ 60.00 - Full Screen
+15:22:27.683 T:8648  NOTICE: Checking resolution 15
+15:22:27.931 T:14740 WARNING: CWin32DirectSound::GetSpace - buffer underrun - W:7064, P:16, O:5288.
+15:22:28.285 T:1044  NOTICE: Running database version Addons27
+15:22:28.291 T:1044  NOTICE: Running database version ViewModes6
+15:22:28.294 T:1044  NOTICE: Running database version Textures13
+15:22:28.298 T:1044  NOTICE: Running database version MyMusic60
+15:22:28.304 T:1044  NOTICE: Running database version MyVideos107
+15:22:28.307 T:1044  NOTICE: Running database version TV29
+15:22:28.309 T:1044  NOTICE: Running database version Epg11
+15:22:28.849 T:8648 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+15:22:28.900 T:8648  NOTICE: starting upnp client
+15:22:28.911 T:15068  NOTICE: ES: Starting UDP Event server on port 9777
+15:22:28.911 T:15068  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+15:22:33.218 T:6888  NOTICE: script.tv.show.next.aired: ### TV Show - Next Aired starting background proc (6.0.15)
+15:22:33.250 T:6888  NOTICE: script.tv.show.next.aired: ### no prior data found
+15:22:33.679 T:8648 WARNING: CApplication::Initialize - startup.xml taints init process
+15:22:33.711 T:1044  NOTICE: AddOnLog: DVBLink PVR Client: Generated guid 6a5eb04a-0315-3635-5d08-6c239c09ae1c to use as a DVBLink client ID
+15:22:33.742 T:8648  NOTICE: initialize done
+15:22:33.742 T:8648  NOTICE: Running the application...
+15:22:33.960 T:8648 WARNING: Skin has invalid include: skinshortcuts-template-widget
+15:22:35.263 T:6888  NOTICE: script.tv.show.next.aired: ### starting data update
+15:22:35.263 T:6888  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+15:22:36.105 T:5648   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+15:22:36.105 T:5648   ERROR: CCurlFile::Open failed with code 0 for http://szejk244 witam/
+15:22:36.672 T:10808  NOTICE: Skin Helper Widgets --> Backgroundservice started
+15:22:36.720 T:6732  NOTICE: Skin Helper Service --> Starting WebService on port 52307
+15:22:36.721 T:13452  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 started
+15:22:37.053 T:8924   ERROR: Exception in thread Thread-1:
+                                            Traceback (most recent call last):
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\listitem_monitor.py", line 98, in run
+                                                self.monitor_listitem()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\listitem_monitor.py", line 155, in monitor_listitem
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\listitem_monitor.py", line 469, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props.iterkeys())
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:22:37.746 T:1044   ERROR: AddOnLog: DVBLink PVR Client: Could not connect to DVBLink Server '127.0.0.1' on port '8100' with username '' (Error code : 2000 Description : HTTP request failed with error code 2000 (An error occurred when trying to establish a connection to the DVBLink Connect! Server).
+                                            )
+15:22:37.747 T:1044   ERROR: ADDON: Dll DVBLink PVR Client - Client returned bad status (1) from Create and is not usable
+15:22:37.999 T:4308  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> Starting NextUp Service
+15:22:38.001 T:4308  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> ========  START NEXTUP SERVICE NOTIFICATION  ========
+15:22:38.004 T:4308  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> KODI Version: 17.6 Git:20171114-a9a7a20
+15:22:38.005 T:4308  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> NEXTUP SERVICE NOTIFICATION Version: 1.0.37
+15:22:38.764 T:15076  NOTICE: script.grab.fanart: Grab Fanart Service Started
+15:22:40.155 T:12688  NOTICE: [FanFilm] ######################### FANFILM ############################
+15:22:40.156 T:12688  NOTICE: [FanFilm] ####### CURRENT FANFILM VERSIONS REPORT ######################
+15:22:40.156 T:12688  NOTICE: [FanFilm] ### FANFILM PLUGIN VERSION: 2018.09.01.0 ###
+15:22:40.156 T:12688  NOTICE: [FanFilm] ### FANFILM MEDIA VERSION: 2018.07.17.0 ###
+15:22:40.156 T:12688  NOTICE: [FanFilm] ###############################################################
+15:22:41.105 T:5648   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+15:22:41.106 T:5648   ERROR: CCurlFile::Open failed with code 0 for http://szejk244 witam/
+15:22:42.511 T:1044   ERROR: PVR::CPVRClients::UpdateAddons - failed to create add-on DVBLink PVR Client, status = 1
+15:22:42.535 T:1044 WARNING: PVR::CPVRClient::GetAddonProperties - Addon DVBViewer:127.0.0.1 (Not connected!) does not support timer types. It will work, but not benefit from the timer features introduced with PVR Addon API 2.0.0
+15:22:44.503 T:4156  NOTICE: [Artist Slideshow] script version 2.1.3 started
+15:22:44.503 T:4156  NOTICE: [Artist Slideshow] debug logging set to false
+15:22:45.647 T:1044  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 166 channels.
+15:22:45.662 T:1044  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - PCTV Systems Addon Configuration options
+15:22:45.662 T:1044  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - Hostname: '192.168.1.20'
+15:22:45.662 T:1044  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - WebPort: '80'
+15:22:46.107 T:5648   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+15:22:46.107 T:5648   ERROR: CCurlFile::Open failed with code 0 for http://szejk244 witam/
+15:22:46.107 T:5648   ERROR: Unable to obtain rss feed: http://szejk244 witam
+15:23:12.541 T:14836   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:23:12.541 T:14836   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:23:12.574 T:8648 WARNING: PVR::CPVRClient::GetAddonProperties - Addon DVBViewer:127.0.0.1 (Not connected!) does not support timer types. It will work, but not benefit from the timer features introduced with PVR Addon API 2.0.0
+15:23:13.482 T:8648  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 166 channels.
+15:23:13.492 T:8648  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - PCTV Systems Addon Configuration options
+15:23:13.492 T:8648  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - Hostname: '192.168.1.20'
+15:23:13.492 T:8648  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - WebPort: '80'
+15:23:15.663 T:1044   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:23:15.663 T:1044   ERROR: CCurlFile::Open failed with code 0 for http://192.168.1.20:80/TVC/free/data/config
+15:23:15.663 T:1044   ERROR: XFILE::CFileCache::Open - failed to open source <http://192.168.1.20:80/TVC/free/data/config>
+15:23:15.663 T:1044   ERROR: AddOnLog: PCTV Systems Client: Pctv::Open It seem's that pctv cannot be reached. Make sure that you set the correct configuration options in the addon settings!
+15:23:42.576 T:6820   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:23:42.576 T:6820   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:23:43.493 T:8648   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:23:43.493 T:8648   ERROR: CCurlFile::Open failed with code 0 for http://192.168.1.20:80/TVC/free/data/config
+15:23:43.493 T:8648   ERROR: XFILE::CFileCache::Open - failed to open source <http://192.168.1.20:80/TVC/free/data/config>
+15:23:43.493 T:8648   ERROR: AddOnLog: PCTV Systems Client: Pctv::Open It seem's that pctv cannot be reached. Make sure that you set the correct configuration options in the addon settings!
+15:23:43.493 T:8648   ERROR: ADDON: Dll PCTV Systems Client - Client returned bad status (1) from Create and is not usable

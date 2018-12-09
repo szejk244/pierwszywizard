@@ -1,0 +1,1264 @@
+﻿15:23:52.679 T:8512  NOTICE: special://profile/ is mapped to: special://masterprofile/
+15:23:52.679 T:8512  NOTICE: -----------------------------------------------------------------------
+15:23:52.679 T:8512  NOTICE: Starting Kodi (17.6 Git:20171114-a9a7a20). Platform: Windows NT x86 32-bit
+15:23:52.679 T:8512  NOTICE: Using Release Kodi x32 build
+15:23:52.679 T:8512  NOTICE: Kodi compiled Dec 10 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+15:23:52.679 T:8512  NOTICE: Running on LENOVO 80XR with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+15:23:52.680 T:8512  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+15:23:52.680 T:8512  NOTICE: Host CPU: Unknown, 4 cores available
+15:23:52.681 T:8512  NOTICE: Desktop Resolution: 1920x1080 32Bit at 60Hz
+15:23:52.681 T:8512  NOTICE: Running with restricted rights
+15:23:52.685 T:8512  NOTICE: Aero is enabled
+15:23:52.685 T:8512  NOTICE: special://xbmc/ is mapped to: C:\Program Files (x86)\Kodi
+15:23:52.685 T:8512  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files (x86)\Kodi
+15:23:52.685 T:8512  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files (x86)\Kodi/addons
+15:23:52.685 T:8512  NOTICE: special://masterprofile/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\userdata
+15:23:52.685 T:8512  NOTICE: special://home/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\
+15:23:52.685 T:8512  NOTICE: special://temp/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\cache
+15:23:52.685 T:8512  NOTICE: special://logpath/ is mapped to: C:\Users\szejk\AppData\Roaming\Kodi\
+15:23:52.685 T:8512  NOTICE: The executable running is: C:\Program Files (x86)\Kodi\kodi.exe
+15:23:52.695 T:8512  NOTICE: Local hostname: LAPTOP-JJPKCP55
+15:23:52.695 T:8512  NOTICE: Log File is located: C:\Users\szejk\AppData\Roaming\Kodi\/kodi.log
+15:23:52.695 T:8512  NOTICE: -----------------------------------------------------------------------
+15:23:52.704 T:8512  NOTICE: load settings...
+15:23:52.716 T:8512 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+15:23:52.716 T:8512 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+15:23:52.723 T:8512  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+15:23:52.723 T:8512  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+15:23:52.723 T:8512  NOTICE: Default Video Player: VideoPlayer
+15:23:52.723 T:8512  NOTICE: Default Audio Player: paplayer
+15:23:52.723 T:8512  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+15:23:52.723 T:8512  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+15:23:52.724 T:8512  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+15:23:52.725 T:8512  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+15:23:52.726 T:8512  NOTICE: Loaded playercorefactory configuration
+15:23:52.726 T:8512  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+15:23:52.726 T:8512  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+15:23:52.745 T:8512  NOTICE: Running database version Addons27
+15:23:52.853 T:8512  NOTICE: ADDONS: Using repository repository.xbmc.org
+15:23:52.853 T:8512  NOTICE: ADDONS: Using repository repository.kodibrasilforum
+15:23:52.853 T:8512  NOTICE: ADDONS: Using repository repository.mbebe
+15:23:52.853 T:8512  NOTICE: ADDONS: Using repository repository.cherrytv
+15:23:52.853 T:8512  NOTICE: ADDONS: Using repository repository.guilouz
+15:23:52.901 T:4788  NOTICE: Found 2 Lists of Devices
+15:23:52.901 T:4788  NOTICE: Enumerated DIRECTSOUND devices:
+15:23:52.901 T:4788  NOTICE:     Device 1
+15:23:52.901 T:4788  NOTICE:         m_deviceName      : {2EB3D776-EAED-47C8-A9D7-3F3DF60C199B}
+15:23:52.901 T:4788  NOTICE:         m_displayName     : Speakers - Lautsprecher (Realtek High Definition Audio)
+15:23:52.901 T:4788  NOTICE:         m_displayNameExtra: DIRECTSOUND: Lautsprecher (Realtek High Definition Audio)
+15:23:52.901 T:4788  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:23:52.901 T:4788  NOTICE:         m_channels        : FL,FR
+15:23:52.901 T:4788  NOTICE:         m_sampleRates     : 48000
+15:23:52.901 T:4788  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+15:23:52.901 T:4788  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:23:52.901 T:4788  NOTICE:     Device 2
+15:23:52.901 T:4788  NOTICE:         m_deviceName      : default
+15:23:52.901 T:4788  NOTICE:         m_displayName     : default
+15:23:52.901 T:4788  NOTICE:         m_displayNameExtra:
+15:23:52.901 T:4788  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:23:52.901 T:4788  NOTICE:         m_channels        : FL,FR
+15:23:52.901 T:4788  NOTICE:         m_sampleRates     : 48000
+15:23:52.901 T:4788  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+15:23:52.901 T:4788  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:23:52.901 T:4788  NOTICE: Enumerated WASAPI devices:
+15:23:52.901 T:4788  NOTICE:     Device 1
+15:23:52.901 T:4788  NOTICE:         m_deviceName      : {2EB3D776-EAED-47C8-A9D7-3F3DF60C199B}
+15:23:52.901 T:4788  NOTICE:         m_displayName     : Speakers - Lautsprecher (Realtek High Definition Audio)
+15:23:52.901 T:4788  NOTICE:         m_displayNameExtra: WASAPI: Lautsprecher (Realtek High Definition Audio)
+15:23:52.901 T:4788  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:23:52.901 T:4788  NOTICE:         m_channels        : FL,FR
+15:23:52.901 T:4788  NOTICE:         m_sampleRates     : 48000,44100
+15:23:52.901 T:4788  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+15:23:52.901 T:4788  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:23:52.902 T:4788  NOTICE:     Device 2
+15:23:52.902 T:4788  NOTICE:         m_deviceName      : default
+15:23:52.902 T:4788  NOTICE:         m_displayName     : default
+15:23:52.902 T:4788  NOTICE:         m_displayNameExtra:
+15:23:52.902 T:4788  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+15:23:52.902 T:4788  NOTICE:         m_channels        : FL,FR
+15:23:52.902 T:4788  NOTICE:         m_sampleRates     : 48000,44100
+15:23:52.902 T:4788  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+15:23:52.902 T:4788  NOTICE:         m_streamTypes     : No passthrough capabilities
+15:23:52.953 T:8512  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics, adapter 0.
+15:23:52.954 T:8512  NOTICE: Primary mode: 1920x1080@ 60.00 - Full Screen
+15:23:52.955 T:8512  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+15:23:52.956 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.956 T:8512  NOTICE: Additional mode: 320x240@ 60.00 - Full Screen
+15:23:52.956 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.956 T:8512  NOTICE: Additional mode: 400x300@ 60.00 - Full Screen
+15:23:52.957 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.957 T:8512  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+15:23:52.957 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.957 T:8512  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+15:23:52.957 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.957 T:8512  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+15:23:52.958 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.958 T:8512  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+15:23:52.958 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.958 T:8512  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+15:23:52.959 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.959 T:8512  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+15:23:52.959 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.959 T:8512  NOTICE: Additional mode: 1280x600@ 60.00 - Full Screen
+15:23:52.960 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.960 T:8512  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+15:23:52.960 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.960 T:8512  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+15:23:52.961 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.961 T:8512  NOTICE: Additional mode: 1280x800@ 60.00 - Full Screen
+15:23:52.961 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.961 T:8512  NOTICE: Additional mode: 1280x960@ 60.00 - Full Screen
+15:23:52.962 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.962 T:8512  NOTICE: Additional mode: 1280x1024@ 60.00 - Full Screen
+15:23:52.962 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.962 T:8512  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+15:23:52.963 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.963 T:8512  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+15:23:52.963 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.963 T:8512  NOTICE: Additional mode: 1400x1050@ 60.00 - Full Screen
+15:23:52.964 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.964 T:8512  NOTICE: Additional mode: 1440x900@ 60.00 - Full Screen
+15:23:52.964 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.964 T:8512  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+15:23:52.965 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.965 T:8512  NOTICE: Additional mode: 1680x1050@ 60.00 - Full Screen
+15:23:52.965 T:8512  NOTICE: Previous line repeats 2 times.
+15:23:52.965 T:8512  NOTICE: Additional mode: 1920x1080@ 60.00 - Full Screen
+15:23:52.965 T:8512  NOTICE: Checking resolution 16
+15:23:53.205 T:2556 WARNING: CWin32DirectSound::GetSpace - buffer underrun - W:7064, P:16, O:5288.
+15:23:53.554 T:14568  NOTICE: Running database version Addons27
+15:23:53.558 T:14568  NOTICE: Running database version ViewModes6
+15:23:53.562 T:14568  NOTICE: Running database version Textures13
+15:23:53.567 T:14568  NOTICE: Running database version MyMusic60
+15:23:53.572 T:14568  NOTICE: Running database version MyVideos107
+15:23:53.575 T:14568  NOTICE: Running database version TV29
+15:23:53.577 T:14568  NOTICE: Running database version Epg11
+15:23:54.116 T:8512 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+15:23:54.164 T:8512  NOTICE: starting upnp client
+15:23:54.176 T:1884  NOTICE: ES: Starting UDP Event server on port 9777
+15:23:54.177 T:1884  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+15:23:58.168 T:13212  NOTICE: script.tv.show.next.aired: ### TV Show - Next Aired starting background proc (6.0.15)
+15:23:58.174 T:13212  NOTICE: script.tv.show.next.aired: ### no prior data found
+15:23:58.979 T:8512 WARNING: CApplication::Initialize - startup.xml taints init process
+15:23:59.024 T:14568 WARNING: PVR::CPVRClient::GetAddonProperties - Addon DVBViewer:127.0.0.1 (Not connected!) does not support timer types. It will work, but not benefit from the timer features introduced with PVR Addon API 2.0.0
+15:23:59.041 T:8512  NOTICE: initialize done
+15:23:59.041 T:8512  NOTICE: Running the application...
+15:23:59.218 T:8512 WARNING: Skin has invalid include: skinshortcuts-template-widget
+15:24:00.765 T:13212  NOTICE: script.tv.show.next.aired: ### starting data update
+15:24:00.765 T:13212  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+15:24:01.005 T:3460   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+15:24:01.005 T:3460   ERROR: CCurlFile::Open failed with code 0 for http://szejk244 witam/
+15:24:01.481 T:15192  NOTICE: Skin Helper Widgets --> Backgroundservice started
+15:24:01.510 T:12388  NOTICE: Skin Helper Service --> Starting WebService on port 52307
+15:24:01.511 T:7152  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 started
+15:24:01.998 T:1084   ERROR: Exception in thread Thread-1:
+                                            Traceback (most recent call last):
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\listitem_monitor.py", line 98, in run
+                                                self.monitor_listitem()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\listitem_monitor.py", line 155, in monitor_listitem
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\listitem_monitor.py", line 469, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props.iterkeys())
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:24:02.390 T:14568  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 166 channels.
+15:24:02.397 T:14568  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - PCTV Systems Addon Configuration options
+15:24:02.397 T:14568  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - Hostname: '192.168.1.20'
+15:24:02.397 T:14568  NOTICE: AddOnLog: PCTV Systems Client: Pctv::Open - WebPort: '80'
+15:24:03.522 T:4172  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> Starting NextUp Service
+15:24:03.524 T:4172  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> ========  START NEXTUP SERVICE NOTIFICATION  ========
+15:24:03.526 T:4172  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> KODI Version: 17.6 Git:20171114-a9a7a20
+15:24:03.527 T:4172  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> NEXTUP SERVICE NOTIFICATION Version: 1.0.37
+15:24:03.757 T:8820  NOTICE: script.grab.fanart: Grab Fanart Service Started
+15:24:05.553 T:13512  NOTICE: [FanFilm] ######################### FANFILM ############################
+15:24:05.553 T:13512  NOTICE: [FanFilm] ####### CURRENT FANFILM VERSIONS REPORT ######################
+15:24:05.553 T:13512  NOTICE: [FanFilm] ### FANFILM PLUGIN VERSION: 2018.09.01.0 ###
+15:24:05.553 T:13512  NOTICE: [FanFilm] ### FANFILM MEDIA VERSION: 2018.07.17.0 ###
+15:24:05.553 T:13512  NOTICE: [FanFilm] ###############################################################
+15:24:06.006 T:3460   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+15:24:06.006 T:3460   ERROR: CCurlFile::Open failed with code 0 for http://szejk244 witam/
+15:24:09.287 T:10340  NOTICE: [Artist Slideshow] script version 2.1.3 started
+15:24:09.287 T:10340  NOTICE: [Artist Slideshow] debug logging set to false
+15:24:11.007 T:3460   ERROR: CCurlFile::FillBuffer - Failed: Couldn't resolve host name(6)
+15:24:11.007 T:3460   ERROR: CCurlFile::Open failed with code 0 for http://szejk244 witam/
+15:24:11.007 T:3460   ERROR: Unable to obtain rss feed: http://szejk244 witam
+15:24:29.040 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:24:29.040 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:24:32.396 T:14568   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:24:32.396 T:14568   ERROR: CCurlFile::Open failed with code 0 for http://192.168.1.20:80/TVC/free/data/config
+15:24:32.396 T:14568   ERROR: XFILE::CFileCache::Open - failed to open source <http://192.168.1.20:80/TVC/free/data/config>
+15:24:32.396 T:14568   ERROR: AddOnLog: PCTV Systems Client: Pctv::Open It seem's that pctv cannot be reached. Make sure that you set the correct configuration options in the addon settings!
+15:24:32.396 T:14568   ERROR: ADDON: Dll PCTV Systems Client - Client returned bad status (1) from Create and is not usable
+15:24:37.006 T:14568   ERROR: PVR::CPVRClients::UpdateAddons - failed to create add-on PCTV Systems Client, status = 1
+15:24:37.037 T:14568   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::SupportChannelScan - Can't get response packed
+15:24:37.426 T:13964  NOTICE: EPG::CEpgContainer::Start - EPG thread started
+15:24:37.921 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:24:38.049 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSISession::TransmitMessage - Failed to write packet (Unknown error), bytes written: -1 of total: 16
+15:24:38.049 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetDriveSpace - Can't get response packed
+15:24:38.049 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetChannelsCount - Can't get response packed
+15:24:38.049 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetTimersCount - Can't get response packed
+15:24:38.049 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetRecordingsCount - Can't get response packed
+15:25:07.602 T:5600   ERROR: Unhandled exception in thread started by
+15:25:07.602 T:5600   ERROR: <bound method Main._socket_daemon of <serviceFunctions.Main instance at 0x1A7BC990>>
+15:25:07.602 T:5600   ERROR: Traceback (most recent call last):
+15:25:07.602 T:5600   ERROR:   File "C:\Users\szejk\AppData\Roaming\Kodi\addons\service.smartish.widgets\serviceFunctions.py", line 164, in _socket_daemon
+15:25:07.603 T:5600   ERROR: self.serversocket.bind( ( "", port ) )
+15:25:07.603 T:5600   ERROR:   File "C:\Program Files (x86)\Kodi\system\python\Lib\socket.py", line 228, in meth
+15:25:07.604 T:5600   ERROR: return getattr(self._sock,name)(*args)
+15:25:07.604 T:5600   ERROR: socket
+15:25:07.604 T:5600   ERROR: .
+15:25:07.604 T:5600   ERROR: error
+15:25:07.604 T:5600   ERROR: :
+15:25:07.604 T:5600   ERROR: [Errno 10048] Tylko jedno uzycie kazdego adresu gniazda (protok�l/adres sieciowy/port) jest normalnie dozwolone
+15:25:09.040 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:25:09.040 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:25:17.570 T:10940  NOTICE: Skin Helper Backgrounds --> BackgroundsUpdater - started
+15:25:32.249 T:5100  NOTICE: Previous line repeats 1 times.
+15:25:32.249 T:5100  NOTICE: script.module.youtube.dl: youtube_dl core version: 2018.11.07
+15:25:47.735 T:12012  NOTICE: Previous line repeats 1 times.
+15:25:47.735 T:12012 WARNING: CPythonInvoker(28, C:\Users\szejk\AppData\Roaming\Kodi\addons\script.extendedinfo\plugin.py): the python script "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.extendedinfo\plugin.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcgui::DialogBusy
+15:25:47.748 T:10940   ERROR: Exception in thread Thread-1:
+                                            Traceback (most recent call last):
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 102, in run
+                                                self.update_backgrounds()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 418, in update_backgrounds
+                                                label=32020)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 292, in set_background
+                                                images = self.get_images_from_vfspath(lib_path)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 201, in get_images_from_vfspath
+                                                image["fanart"] = self.mutils.get_clean_image(media['art']['fanart'])
+                                            AttributeError: 'MetadataUtils' object has no attribute 'get_clean_image'
+15:25:48.221 T:5100 WARNING: CPythonInvoker(27, C:\Users\szejk\AppData\Roaming\Kodi\addons\script.extendedinfo\plugin.py): the python script "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.extendedinfo\plugin.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcgui::DialogBusy
+15:25:48.234 T:9988   ERROR: Exception in thread Thread-1:
+                                            Traceback (most recent call last):
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 102, in run
+                                                self.update_backgrounds()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 418, in update_backgrounds
+                                                label=32020)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 292, in set_background
+                                                images = self.get_images_from_vfspath(lib_path)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\resources\lib\backgrounds_updater.py", line 201, in get_images_from_vfspath
+                                                image["fanart"] = self.mutils.get_clean_image(media['art']['fanart'])
+                                            AttributeError: 'MetadataUtils' object has no attribute 'get_clean_image'
+15:25:49.047 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:25:49.048 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:26:29.054 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:26:29.054 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:26:56.177 T:8512   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:26:56.177 T:8512   ERROR: CCurlFile::Open failed with code 0 for http://mirrors.kodi.tv/addons/krypton/weather.openweathermap.extended/weather.openweathermap.extended-5.0.2.zip.md5
+15:26:56.177 T:8512   ERROR: XFILE::CFileCache::Open - failed to open source <http://mirrors.kodi.tv/addons/krypton/weather.openweathermap.extended/weather.openweathermap.extended-5.0.2.zip.md5>
+15:27:09.060 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:27:09.060 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:27:49.065 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:27:49.066 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:28:29.070 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:28:29.070 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:28:41.189 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSISession::TransmitMessage - Failed to write packet (Unknown error), bytes written: -1 of total: 16
+15:28:41.189 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetDriveSpace - Can't get response packed
+15:28:41.189 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetChannelsCount - Can't get response packed
+15:28:41.189 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetTimersCount - Can't get response packed
+15:28:41.189 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetRecordingsCount - Can't get response packed
+15:28:50.270 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSISession::TransmitMessage - Failed to write packet (Unknown error), bytes written: -1 of total: 16
+15:28:50.270 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetDriveSpace - Can't get response packed
+15:28:50.270 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetChannelsCount - Can't get response packed
+15:28:50.270 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetTimersCount - Can't get response packed
+15:28:50.270 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetRecordingsCount - Can't get response packed
+15:28:58.667 T:13212  NOTICE: script.tv.show.next.aired: ### no prior data found
+15:29:00.667 T:13212  NOTICE: script.tv.show.next.aired: ### starting data update
+15:29:00.667 T:13212  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+15:29:09.077 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:29:09.078 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:29:34.479 T:8512  NOTICE: CWebServer[8080]: Started
+15:29:39.934 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:29:49.086 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:29:49.086 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:29:59.494 T:8512  NOTICE: starting zeroconf publishing
+15:30:06.768 T:8512   ERROR: ZeroconfMDNS: Zeroconf can't be started probably because Apple's Bonjour Service isn't installed. You can get it by either installing Itunes or Apple's Bonjour Print Service for Windows (http://support.apple.com/kb/DL999)
+15:30:06.769 T:8512  NOTICE: starting zeroconf publishing
+15:30:13.976 T:8512   ERROR: ZeroconfMDNS: Zeroconf can't be started probably because Apple's Bonjour Service isn't installed. You can get it by either installing Itunes or Apple's Bonjour Print Service for Windows (http://support.apple.com/kb/DL999)
+15:30:29.093 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:30:29.094 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:30:58.959 T:12864   ERROR: EXCEPTION: Non-Existent Control 111
+15:30:59.110 T:6428   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+15:30:59.174 T:6428   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+15:31:08.146 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:31:09.099 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:31:09.099 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:31:12.349 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:31:27.079 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:31:49.118 T:11660   ERROR: Previous line repeats 2 times.
+15:31:49.118 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:31:49.118 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:32:07.190 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:32:10.923 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:32:12.782 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:32:29.123 T:11660   ERROR: Previous line repeats 2 times.
+15:32:29.123 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:32:29.123 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:32:42.111 T:10636  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:32:42.154 T:10636  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:32:42.404 T:10636   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:32:42.406 T:10636  NOTICE: metahandler: No SQLite rows requiring update
+15:32:44.627 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:32:56.268 T:8512   ERROR: Previous line repeats 1 times.
+15:32:56.268 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+15:33:00.221 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:33:09.129 T:11660   ERROR: Previous line repeats 2 times.
+15:33:09.129 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:33:09.129 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:33:23.085 T:13056 WARNING: [FanFilm] Object Not Found : 404
+15:33:26.014 T:9928 WARNING: Previous line repeats 2 times.
+15:33:26.014 T:9928  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:33:26.052 T:9928  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:33:26.312 T:9928   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:33:26.315 T:9928  NOTICE: metahandler: No SQLite rows requiring update
+15:33:27.265 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:33:49.132 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:33:49.132 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:34:22.970 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:34:27.380 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:34:29.139 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:34:29.139 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:34:29.458 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:34:40.601 T:2000   ERROR: Previous line repeats 2 times.
+15:34:40.601 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:34:53.473 T:10028  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:34:53.511 T:10028  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:34:53.943 T:10028   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:34:53.945 T:10028  NOTICE: metahandler: No SQLite rows requiring update
+15:34:54.713 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:35:09.140 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:35:09.140 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:35:18.743 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:35:22.701 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:35:25.075 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:35:49.147 T:11660   ERROR: Previous line repeats 2 times.
+15:35:49.147 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:35:49.147 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:35:50.272 T:2588  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:35:50.314 T:2588  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:35:50.761 T:2588   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:35:50.764 T:2588  NOTICE: metahandler: No SQLite rows requiring update
+15:35:51.604 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:36:19.929 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:36:27.714 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:36:29.156 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:36:29.157 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:36:30.569 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:36:43.706 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:36:48.937 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:37:09.163 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:37:09.163 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:37:49.169 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:37:49.169 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:38:29.178 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:38:29.178 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:38:51.368 T:5596 WARNING: [FanFilm] Object Not Found : 404
+15:38:55.384 T:9252 WARNING: Previous line repeats 2 times.
+15:38:55.384 T:9252  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:38:55.424 T:9252  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:38:55.947 T:9252   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:38:55.969 T:9252  NOTICE: metahandler: No SQLite rows requiring update
+15:38:57.136 T:4688  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:38:57.186 T:4688  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:38:57.470 T:4688   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:38:57.472 T:4688  NOTICE: metahandler: No SQLite rows requiring update
+15:38:59.212 T:13212  NOTICE: script.tv.show.next.aired: ### no prior data found
+15:39:01.212 T:13212  NOTICE: script.tv.show.next.aired: ### starting data update
+15:39:01.212 T:13212  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+15:39:09.185 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:39:09.185 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:39:42.419 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:39:49.185 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:39:49.185 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:40:06.945 T:2556 WARNING: CWin32DirectSound::GetSpace - buffer underrun - W:55208, P:41704, O:54656.
+15:40:06.977 T:2556 WARNING: CWin32DirectSound::GetSpace - buffer underrun - W:2336, P:52872, O:2328.
+15:40:07.011 T:2556 WARNING: CWin32DirectSound::GetSpace - buffer underrun - W:12920, P:1400, O:12912.
+15:40:16.196 T:8512  NOTICE: VideoPlayer: Opening: pvr://channels/tv/Wszystkie/pvr.iptvsimple_1886029752.pvr
+15:40:16.196 T:8512 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+15:40:16.201 T:12992  NOTICE: Creating InputStream
+15:40:16.590 T:12992  NOTICE: Creating Demuxer
+15:40:17.322 T:12992  NOTICE: Opening stream: 0 source: 256
+15:40:17.322 T:12992  NOTICE: Creating video codec with codec id: 28
+15:40:17.322 T:12992  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+15:40:17.323 T:12992  NOTICE: Creating video thread
+15:40:17.323 T:12992  NOTICE: Opening stream: 2 source: 256
+15:40:17.324 T:12992  NOTICE: Finding audio codec for: 86057
+15:40:17.324 T:2220  NOTICE: running thread: video_thread
+15:40:17.325 T:12992  NOTICE: Creating audio thread
+15:40:17.326 T:12992  NOTICE: Opening stream: 3 source: 256
+15:40:17.326 T:12992  NOTICE: waiting for teletext data thread to exit
+15:40:17.327 T:6536  NOTICE: running thread: CVideoPlayerAudio::Process()
+15:40:17.329 T:12992  NOTICE: Creating teletext data thread
+15:40:17.331 T:10272  NOTICE: running thread: CDVDTeletextData
+15:40:17.424 T:12992  NOTICE: Opening stream: 0 source: 256
+15:40:17.424 T:12992  NOTICE: Creating video codec with codec id: 28
+15:40:17.424 T:12992  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+15:40:17.425 T:12992  NOTICE: Opening stream: 2 source: 256
+15:40:17.425 T:12992  NOTICE: Opening stream: 3 source: 256
+15:40:17.431 T:2220  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(720x576)
+15:40:17.442 T:7152 WARNING: Skin Helper Service --> Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 63, in onNotification
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 129, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props)
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:17.442 T:7152   ERROR: Skin Helper Service --> Exception in resources.lib.kodi_monitor ! --> 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:17.470 T:8512  NOTICE: D3D: rendering method forced to DXVA processor
+15:40:17.470 T:8512  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:yes.
+15:40:17.489 T:8512 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+15:40:17.530 T:6536  NOTICE: Creating audio stream (codec id: 86057, channels: 2, sample rate: 48000, no pass-through)
+15:40:18.727 T:2220 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+15:40:19.270 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:19.297 T:2220  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 43636
+15:40:20.096 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:20.409 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:20.663 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:20.722 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:20.729 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:21.064 T:6536  NOTICE: CVideoPlayerAudio::Process - stream stalled
+15:40:21.111 T:2220  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(720x576)
+15:40:21.128 T:2220   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:40:21.157 T:6536   ERROR: Previous line repeats 4 times.
+15:40:21.157 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:21.157 T:2220   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:40:21.743 T:2220   ERROR: Previous line repeats 18 times.
+15:40:21.743 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:22.039 T:2220   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:40:22.056 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:22.056 T:2220   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:40:22.327 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:22.349 T:2220  NOTICE: DXVA::CDecoder::Close - closing decoder
+15:40:22.385 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:23.007 T:2220   ERROR: Previous line repeats 1 times.
+15:40:23.007 T:2220 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+15:40:23.751 T:6536 WARNING: Previous line repeats 1 times.
+15:40:23.751 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:24.049 T:2220 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+15:40:29.193 T:11660 WARNING: Previous line repeats 4 times.
+15:40:29.194 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:40:29.194 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:40:30.715 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:31.648 T:2220   ERROR: Previous line repeats 1 times.
+15:40:31.648 T:2220 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:32.231 T:6536 WARNING: Previous line repeats 1 times.
+15:40:32.231 T:6536   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:32.735 T:8512   ERROR: Previous line repeats 1 times.
+15:40:32.735 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:40:32.735 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:40:32.748 T:12992  NOTICE: CVideoPlayer::OnExit()
+15:40:32.749 T:12992  NOTICE: Closing stream player 1
+15:40:32.749 T:12992  NOTICE: Waiting for audio thread to exit
+15:40:32.777 T:6536  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+15:40:32.777 T:12992  NOTICE: Closing audio device
+15:40:32.807 T:12992  NOTICE: Deleting audio codec
+15:40:32.807 T:12992  NOTICE: Closing stream player 2
+15:40:32.808 T:12992  NOTICE: waiting for video thread to exit
+15:40:32.832 T:2220  NOTICE: thread end: video_thread
+15:40:32.832 T:12992  NOTICE: deleting video codec
+15:40:32.838 T:12992  NOTICE: DXVA::CDecoder::Close - closing decoder
+15:40:32.838 T:12992  NOTICE: DXVA::Close - closing decoder context
+15:40:32.839 T:12992  NOTICE: Closing stream player 4
+15:40:32.839 T:12992  NOTICE: waiting for teletext data thread to exit
+15:40:32.839 T:10272   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true (-1)
+15:40:32.839 T:10272  NOTICE: thread end: data_thread
+15:40:32.876 T:8512  NOTICE: VideoPlayer: finished waiting
+15:40:32.971 T:7152 WARNING: Skin Helper Service --> Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 59, in onNotification
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 129, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props)
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:32.972 T:7152   ERROR: Skin Helper Service --> Exception in resources.lib.kodi_monitor ! --> 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:33.056 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:40:33.057 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:40:33.057 T:8512  NOTICE: VideoPlayer: finished waiting
+15:40:33.057 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:40:33.057 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:40:33.057 T:8512  NOTICE: VideoPlayer: finished waiting
+15:40:36.024 T:8512  NOTICE: VideoPlayer: Opening: pvr://channels/tv/Wszystkie/pvr.iptvsimple_925271054.pvr
+15:40:36.024 T:8512 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+15:40:36.026 T:9632  NOTICE: Creating InputStream
+15:40:36.476 T:9632  NOTICE: Creating Demuxer
+15:40:37.177 T:9632  NOTICE: Opening stream: 0 source: 256
+15:40:37.177 T:9632  NOTICE: Creating video codec with codec id: 28
+15:40:37.178 T:9632  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+15:40:37.178 T:9632  NOTICE: Creating video thread
+15:40:37.178 T:9632  NOTICE: Opening stream: 2 source: 256
+15:40:37.179 T:9632  NOTICE: Finding audio codec for: 86019
+15:40:37.179 T:7696  NOTICE: running thread: video_thread
+15:40:37.180 T:9632  NOTICE: Creating audio thread
+15:40:37.180 T:9632  NOTICE: Opening stream: 4 source: 256
+15:40:37.181 T:9632  NOTICE: Opening stream: 3 source: 256
+15:40:37.181 T:9632  NOTICE: waiting for teletext data thread to exit
+15:40:37.182 T:11832  NOTICE: running thread: CVideoPlayerAudio::Process()
+15:40:37.184 T:9632  NOTICE: Creating teletext data thread
+15:40:37.186 T:12916  NOTICE: running thread: CDVDTeletextData
+15:40:37.246 T:7152 WARNING: Skin Helper Service --> Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 63, in onNotification
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 129, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props)
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:37.246 T:7152   ERROR: Skin Helper Service --> Exception in resources.lib.kodi_monitor ! --> 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:38.183 T:9632  NOTICE: Opening stream: 0 source: 256
+15:40:38.183 T:9632  NOTICE: Creating video codec with codec id: 28
+15:40:38.183 T:9632  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+15:40:38.184 T:9632  NOTICE: Opening stream: 2 source: 256
+15:40:38.184 T:9632  NOTICE: Closing stream player 3
+15:40:38.185 T:9632  NOTICE: Opening stream: 4 source: 256
+15:40:38.185 T:9632  NOTICE: Opening stream: 3 source: 256
+15:40:38.190 T:7696  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(720x576)
+15:40:38.221 T:11832  NOTICE: Creating audio stream (codec id: 86019, channels: 2, sample rate: 48000, no pass-through)
+15:40:38.222 T:8512  NOTICE: D3D: rendering method forced to DXVA processor
+15:40:38.223 T:8512  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:yes.
+15:40:38.230 T:8512 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+15:40:38.916 T:7696 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+15:40:39.809 T:7696 WARNING: Previous line repeats 1 times.
+15:40:39.810 T:7696  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 43636
+15:40:42.244 T:11832   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:43.075 T:7696   ERROR: Previous line repeats 2 times.
+15:40:43.075 T:7696 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:43.130 T:11832   ERROR: CVideoPlayerAudio::DecodeFrame - Decode Error. Skipping audio packet (-1094995529)
+15:40:43.336 T:7696 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:43.677 T:11832  NOTICE: CVideoPlayerAudio::Process - stream stalled
+15:40:43.724 T:7696  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(720x576)
+15:40:43.734 T:7696   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:40:45.354 T:7696   ERROR: Previous line repeats 42 times.
+15:40:45.354 T:7696 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:45.354 T:7696   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:40:45.985 T:7696   ERROR: Previous line repeats 13 times.
+15:40:45.985 T:7696 WARNING: DXVA - decoder problem of status 2 with 255
+15:40:47.067 T:8512 WARNING: Previous line repeats 1 times.
+15:40:47.067 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:40:47.068 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:40:47.069 T:9632  NOTICE: CVideoPlayer::OnExit()
+15:40:47.069 T:9632  NOTICE: Closing stream player 1
+15:40:47.069 T:9632  NOTICE: Waiting for audio thread to exit
+15:40:47.070 T:11832   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
+15:40:47.070 T:11832  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+15:40:47.070 T:9632  NOTICE: Closing audio device
+15:40:47.098 T:9632  NOTICE: Deleting audio codec
+15:40:47.099 T:9632  NOTICE: Closing stream player 2
+15:40:47.099 T:9632  NOTICE: waiting for video thread to exit
+15:40:47.099 T:7696   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
+15:40:47.099 T:7696  NOTICE: thread end: video_thread
+15:40:47.099 T:9632  NOTICE: deleting video codec
+15:40:47.102 T:9632  NOTICE: DXVA::CDecoder::Close - closing decoder
+15:40:47.108 T:9632  NOTICE: Previous line repeats 1 times.
+15:40:47.108 T:9632  NOTICE: DXVA::Close - closing decoder context
+15:40:47.108 T:9632  NOTICE: Closing stream player 3
+15:40:47.108 T:9632  NOTICE: Closing stream player 4
+15:40:47.108 T:9632  NOTICE: waiting for teletext data thread to exit
+15:40:47.108 T:12916   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true (-1)
+15:40:47.109 T:12916  NOTICE: thread end: data_thread
+15:40:47.156 T:8512  NOTICE: VideoPlayer: finished waiting
+15:40:47.254 T:7152 WARNING: Skin Helper Service --> Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 59, in onNotification
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 129, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props)
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:47.254 T:7152   ERROR: Skin Helper Service --> Exception in resources.lib.kodi_monitor ! --> 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:40:47.388 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:40:47.388 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:40:47.388 T:8512  NOTICE: VideoPlayer: finished waiting
+15:40:47.388 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:40:47.388 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:40:47.388 T:8512  NOTICE: VideoPlayer: finished waiting
+15:40:58.710 T:8512  NOTICE: VideoPlayer: Opening: http://ul.cdn584.net:8080/hls/j63jfly.m3u8?s=HG7hfhCkeD0CHqw6ZpZ-Eg&e=1544388056|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1&Referer=http://whostreams.net/embed/j63jfly
+15:40:58.710 T:8512 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+15:40:58.781 T:6252  NOTICE: Creating InputStream
+15:40:58.984 T:6252  NOTICE: Creating Demuxer
+15:41:00.430 T:6252  NOTICE: Opening stream: 0 source: 256
+15:41:00.430 T:6252  NOTICE: Creating video codec with codec id: 28
+15:41:00.430 T:6252  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+15:41:00.430 T:6252  NOTICE: Creating video thread
+15:41:00.431 T:6252  NOTICE: Opening stream: 1 source: 256
+15:41:00.431 T:6252  NOTICE: Finding audio codec for: 86018
+15:41:00.431 T:6376  NOTICE: running thread: video_thread
+15:41:00.432 T:6252  NOTICE: Creating audio thread
+15:41:00.434 T:3780  NOTICE: running thread: CVideoPlayerAudio::Process()
+15:41:00.441 T:6376  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(640x360)
+15:41:00.445 T:3780  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+15:41:00.452 T:6376   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:41:00.476 T:7152   ERROR: Previous line repeats 2 times.
+15:41:00.476 T:7152 WARNING: Skin Helper Service --> Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 63, in onNotification
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 129, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props)
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:41:00.476 T:7152   ERROR: Skin Helper Service --> Exception in resources.lib.kodi_monitor ! --> 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:41:00.564 T:6376   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+15:41:01.001 T:8512   ERROR: Previous line repeats 95 times.
+15:41:01.002 T:8512  NOTICE: D3D: rendering method forced to DXVA processor
+15:41:01.002 T:8512  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:yes.
+15:41:01.012 T:8512 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+15:41:01.602 T:6376 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+15:41:02.696 T:6376 WARNING: Previous line repeats 2 times.
+15:41:02.697 T:6376  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 40000
+15:41:03.201 T:6376 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+15:41:08.376 T:8512 WARNING: Previous line repeats 4 times.
+15:41:08.376 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:41:08.376 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:41:08.386 T:6252  NOTICE: CVideoPlayer::OnExit()
+15:41:08.386 T:6252  NOTICE: Closing stream player 1
+15:41:08.386 T:6252  NOTICE: Waiting for audio thread to exit
+15:41:08.389 T:3780  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+15:41:08.389 T:6252  NOTICE: Closing audio device
+15:41:08.405 T:6252  NOTICE: Deleting audio codec
+15:41:08.406 T:6252  NOTICE: Closing stream player 2
+15:41:08.406 T:6252  NOTICE: waiting for video thread to exit
+15:41:08.424 T:6376  NOTICE: thread end: video_thread
+15:41:08.424 T:6252  NOTICE: deleting video codec
+15:41:08.429 T:6252  NOTICE: DXVA::CDecoder::Close - closing decoder
+15:41:08.429 T:6252  NOTICE: DXVA::Close - closing decoder context
+15:41:08.431 T:8512  NOTICE: VideoPlayer: finished waiting
+15:41:08.557 T:7152 WARNING: Skin Helper Service --> Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 59, in onNotification
+                                                self.reset_win_props()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 129, in reset_win_props
+                                                self.metadatautils.process_method_on_list(self.win.clearProperty, self.all_window_props)
+                                            AttributeError: 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:41:08.557 T:7152   ERROR: Skin Helper Service --> Exception in resources.lib.kodi_monitor ! --> 'MetadataUtils' object has no attribute 'process_method_on_list'
+15:41:08.662 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:41:08.662 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:41:08.662 T:8512  NOTICE: VideoPlayer: finished waiting
+15:41:08.662 T:8512  NOTICE: CVideoPlayer::CloseFile()
+15:41:08.662 T:8512  NOTICE: VideoPlayer: waiting for threads to exit
+15:41:08.662 T:8512  NOTICE: VideoPlayer: finished waiting
+15:41:09.201 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:41:09.201 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:41:14.592 T:14784 WARNING: [FanFilm] Object Not Found : 404
+15:41:15.044 T:9780 WARNING: Previous line repeats 2 times.
+15:41:15.044 T:9780  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:41:15.221 T:9780  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:41:16.585 T:9780   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:41:16.614 T:9780  NOTICE: metahandler: No SQLite rows requiring update
+15:41:19.309 T:13716  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+15:41:19.350 T:13716  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+15:41:19.607 T:13716   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+15:41:19.609 T:13716  NOTICE: metahandler: No SQLite rows requiring update
+15:41:49.204 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:41:49.204 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:41:53.960 T:2896   ERROR: CImageLoader::DoWork - Direct texture file loading failed for resource://resource.images.weathericons.default/
+15:42:06.518 T:8512   ERROR: Previous line repeats 3 times.
+15:42:06.518 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+15:42:06.518 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+15:42:29.210 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:42:29.210 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:42:43.980 T:14180 WARNING: Invalid media type "file"
+15:43:09.216 T:11660 WARNING: Previous line repeats 6 times.
+15:43:09.216 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:43:09.216 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:43:49.222 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:43:49.222 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:44:29.230 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:44:29.230 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:44:44.329 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:45:05.008 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+15:45:05.008 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+15:45:09.237 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:45:09.237 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:45:40.703 T:596   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:45:49.244 T:11660   ERROR: Previous line repeats 2 times.
+15:45:49.244 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:45:49.244 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:45:52.458 T:12812   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:46:24.198 T:8512   ERROR: Previous line repeats 6 times.
+15:46:24.198 T:8512   ERROR: unmatched parentheses in String.Contains(ListItem.Mpaa,Rated: PG
+15:46:29.243 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:46:29.243 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:46:32.505 T:11644  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:47:03.021 T:14128  NOTICE: Previous line repeats 1 times.
+15:47:03.021 T:14128   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+15:47:09.251 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:47:09.252 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:47:20.602 T:596   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:47:49.250 T:11660   ERROR: Previous line repeats 3 times.
+15:47:49.250 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:47:49.250 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:47:57.410 T:10472   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:48:29.249 T:11660   ERROR: Previous line repeats 1 times.
+15:48:29.249 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:48:29.249 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:49:06.730 T:12680   ERROR: EXCEPTION: Non-Existent Control 111
+15:49:06.880 T:12884   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+15:49:06.890 T:12884   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+15:49:09.256 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:49:09.256 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:49:11.715 T:7632   ERROR: EXCEPTION: Non-Existent Control 111
+15:49:11.869 T:1600   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+15:49:11.902 T:1600   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+15:49:41.483 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:49:45.222 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:49:49.165 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:49:49.276 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:49:49.276 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:50:29.282 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:50:29.282 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:50:43.703 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:50:43.936 T:13636   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:51:05.691 T:13932   ERROR: Previous line repeats 2 times.
+15:51:05.691 T:13932  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:51:07.027 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:51:07.189 T:10004   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+15:51:09.290 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:51:09.290 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:51:49.305 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:51:49.305 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:52:29.311 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:52:29.311 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:53:09.317 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:53:09.317 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:53:49.336 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:53:49.336 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:53:59.450 T:13212  NOTICE: script.tv.show.next.aired: ### no prior data found
+15:54:01.451 T:13212  NOTICE: script.tv.show.next.aired: ### starting data update
+15:54:01.451 T:13212  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+15:54:29.342 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:54:29.342 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:54:32.712 T:12376   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+15:54:38.556 T:11900   ERROR: Previous line repeats 5 times.
+15:54:38.556 T:11900  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:54:38.927 T:11900   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+15:54:39.439 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:54:51.544 T:2000   ERROR: Previous line repeats 1 times.
+15:54:51.544 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+15:54:52.027 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:54:55.092 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:54:55.311 T:12376   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:55:01.547 T:7752  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:55:02.823 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:55:02.987 T:2976   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+15:55:08.040 T:13416   ERROR: Previous line repeats 6 times.
+15:55:08.040 T:13416  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:55:08.696 T:13416   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+15:55:09.207 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:55:09.345 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:55:09.345 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:55:44.847 T:7632   ERROR: EXCEPTION: Non-Existent Control 111
+15:55:49.350 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:55:49.351 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:55:58.830 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:56:03.405 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+15:56:05.823 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:56:06.030 T:13696   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:56:10.175 T:11576   ERROR: Previous line repeats 1 times.
+15:56:10.175 T:11576  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:56:10.445 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:56:10.524 T:13696   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:56:20.996 T:12012   ERROR: Previous line repeats 2 times.
+15:56:20.996 T:12012  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:56:22.834 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:56:29.357 T:11660   ERROR: Previous line repeats 1 times.
+15:56:29.358 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:56:29.358 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:57:02.024 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:57:05.310 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+15:57:07.624 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:57:07.830 T:14968   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:57:09.361 T:11660   ERROR: Previous line repeats 1 times.
+15:57:09.361 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:57:09.361 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:57:19.834 T:972   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:57:23.607 T:15272  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:57:23.906 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:57:36.976 T:8208  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:57:38.092 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:57:49.368 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:57:49.368 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:58:29.382 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:58:29.382 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:58:45.562 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:58:48.892 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:58:50.635 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:58:50.768 T:4236   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:59:05.992 T:13680  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:59:06.390 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:59:06.552 T:14672   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+15:59:09.384 T:11660   ERROR: Previous line repeats 5 times.
+15:59:09.384 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:59:09.385 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:59:09.532 T:13484   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+15:59:21.592 T:8512   ERROR: Previous line repeats 4 times.
+15:59:21.592 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:59:24.856 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+15:59:28.289 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:59:28.512 T:13484   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+15:59:33.015 T:13524   ERROR: Previous line repeats 1 times.
+15:59:33.015 T:13524  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:59:33.545 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:59:33.655 T:4236   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+15:59:37.312 T:11116   ERROR: Previous line repeats 1 times.
+15:59:37.312 T:11116  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+15:59:37.736 T:11116   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+15:59:39.749 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+15:59:49.391 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+15:59:49.391 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+15:59:52.756 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:00:03.890 T:7632   ERROR: EXCEPTION: Non-Existent Control 111
+16:00:29.400 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:00:29.400 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:00:39.354 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:00:43.480 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+16:00:46.629 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:00:46.848 T:9176   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:00:56.201 T:8512   ERROR: Previous line repeats 1 times.
+16:00:56.201 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:00:56.328 T:9176   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+16:01:03.897 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:07.911 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+16:01:09.414 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:01:09.414 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:01:11.629 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:11.758 T:9176   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:01:16.800 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:16.868 T:9176   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+16:01:22.827 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:27.827 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+16:01:29.395 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:29.521 T:14348   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:01:37.067 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:37.230 T:7688   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+16:01:49.021 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:49.421 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:01:49.421 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:01:51.910 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+16:01:56.161 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:01:56.363 T:9176   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:02:02.649 T:12300  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:02:03.071 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:03.308 T:7688   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+16:02:10.611 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:15.116 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+16:02:17.552 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:17.759 T:14348   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:02:22.958 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:23.098 T:12700   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+16:02:29.423 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:02:29.423 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:02:31.863 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:35.575 T:8512   ERROR: Control 3 in window 13005 has been asked to focus, but it can't
+16:02:39.025 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:39.148 T:12700   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:02:43.353 T:1624  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:02:44.648 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:02:44.868 T:14348   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultFolder.png
+16:03:08.251 T:3280   ERROR: EXCEPTION: Non-Existent Control 111
+16:03:08.425 T:6296   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+16:03:08.437 T:6296   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+16:03:09.430 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:03:09.430 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:03:41.416 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:03:44.347 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:03:47.248 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:03:47.470 T:9192   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:03:49.435 T:11660   ERROR: Previous line repeats 1 times.
+16:03:49.435 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:03:49.435 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:03:54.347 T:9192   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:03:58.708 T:6668   ERROR: Previous line repeats 1 times.
+16:03:58.708 T:6668  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:03:59.351 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:04:17.893 T:8512   ERROR: Previous line repeats 1 times.
+16:04:17.893 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:04:19.531 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:04:19.674 T:6288   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:04:24.433 T:8728   ERROR: Previous line repeats 2 times.
+16:04:24.433 T:8728  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:04:24.789 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:04:29.441 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:04:29.441 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:04:30.081 T:14452  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:04:30.865 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:04:54.086 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:05:09.445 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:05:09.445 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:05:35.781 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:05:40.500 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:05:43.181 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:05:43.396 T:1912   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:05:49.451 T:11660   ERROR: Previous line repeats 1 times.
+16:05:49.451 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:05:49.451 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:06:11.899 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:06:24.355 T:8512   ERROR: Previous line repeats 1 times.
+16:06:24.355 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:06:26.656 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:06:26.866 T:5656   ERROR: CFFmpegImage::ExtractFrame: Could not decode a frame
+16:06:29.457 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:06:29.457 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:06:53.604 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:07:09.464 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:07:09.464 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:07:41.542 T:8244  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:07:43.252 T:8244   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:07:43.537 T:14844 WARNING: [FanFilm] Object Not Found : 404
+16:07:46.457 T:8792 WARNING: Previous line repeats 2 times.
+16:07:46.457 T:8792  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:07:46.496 T:8792  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:07:48.322 T:14536  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:07:48.842 T:8792   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:07:48.844 T:8792  NOTICE: metahandler: No SQLite rows requiring update
+16:07:49.471 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:07:49.471 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:07:53.660 T:8808  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:07:53.719 T:8808  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:07:54.136 T:8808   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:07:54.139 T:8808  NOTICE: metahandler: No SQLite rows requiring update
+16:07:56.641 T:11656  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:07:57.108 T:11656   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:08:29.475 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:08:29.475 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:09:09.493 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:09:09.493 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:09:49.508 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:09:49.508 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:09:55.245 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:10:29.514 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:10:29.514 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:10:38.107 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\media\Fonts\
+16:10:38.107 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting special://home/media/Fonts/
+16:10:38.142 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\media\Fonts\
+16:10:38.142 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting special://home/media/Fonts/
+16:11:09.520 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:11:09.520 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:11:23.877 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:11:23.877 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:11:34.147 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSISession::TransmitMessage - Failed to write packet (Unknown error), bytes written: -1 of total: 16
+16:11:34.147 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetDriveSpace - Can't get response packed
+16:11:34.147 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetChannelsCount - Can't get response packed
+16:11:34.147 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetTimersCount - Can't get response packed
+16:11:34.148 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetRecordingsCount - Can't get response packed
+16:11:43.150 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetDriveSpace - Can't get response packed
+16:11:43.150 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetChannelsCount - Can't get response packed
+16:11:43.150 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetTimersCount - Can't get response packed
+16:11:43.150 T:9028   ERROR: AddOnLog: VDR VNSI Client: cVNSIData::GetRecordingsCount - Can't get response packed
+16:11:49.528 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:11:49.528 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:12:29.534 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:12:29.535 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:12:54.417 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:12:54.418 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:13:09.542 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:13:09.542 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:13:20.544 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:13:20.544 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:13:46.605 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:13:46.605 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:13:49.547 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:13:49.547 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:13:56.683 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:13:56.683 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:14:02.828 T:13212  NOTICE: script.tv.show.next.aired: ### no prior data found
+16:14:04.839 T:13212  NOTICE: script.tv.show.next.aired: ### starting data update
+16:14:04.839 T:13212  NOTICE: script.tv.show.next.aired: ### grabbing a new country mapping list
+16:14:14.904 T:13168   ERROR: CAddonInstallJob[plugin.video.musictv]: Zależności od script.module.liveresolver w wersji 0.0.0 nie mogą zostać spełnione.
+16:14:28.805 T:8512   ERROR: Previous line repeats 1 times.
+16:14:28.806 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:14:28.806 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:14:29.552 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:14:29.552 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:14:56.988 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:15:09.556 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:15:09.556 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:15:49.556 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:15:49.556 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:16:29.562 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:16:29.562 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:16:38.254 T:9152   ERROR: EXCEPTION: Non-Existent Control 111
+16:16:38.400 T:14156   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+16:16:38.433 T:14156   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+16:16:44.442 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:16:49.013 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:16:51.417 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:16:59.240 T:9152   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://plugin.audio.cherrymusic/
+16:16:59.269 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:17:08.661 T:8512   ERROR: Previous line repeats 1 times.
+16:17:08.661 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:17:09.560 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:17:09.560 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:17:11.726 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:17:22.734 T:8512   ERROR: Previous line repeats 2 times.
+16:17:22.735 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:17:26.564 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:17:37.866 T:7188   ERROR: Previous line repeats 2 times.
+16:17:37.866 T:7188   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'pylast.WSError'>
+                                            Error Contents: Authentication Failed - You do not have permissions to access the service
+                                            Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 350, in <module>
+                                                elif mode == 3: LastFMTube().getTopTracks(user, pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 250, in getTopTracks
+                                                network = pylast.LastFMNetwork(api_key=API_KEY, api_secret=API_SECRET, username=user, password_hash=pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 934, in __init__
+                                                "user": "user/%(name)s",
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 274, in __init__
+                                                self.username, self.password_hash)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1353, in get_session_key
+                                                doc = request.execute()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1233, in execute
+                                                response = self._download_response()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1224, in _download_response
+                                                self._check_response_for_errors(response_text)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1253, in _check_response_for_errors
+                                                raise WSError(self.network, status, details)
+                                            WSError: Authentication Failed - You do not have permissions to access the service
+                                            -->End of Python script error report<--
+16:17:38.049 T:9152   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://plugin.audio.lastfmtube/?url=&mode=3&name=Top+Tracks&user=Enter+Username&pwd=b3b727345651d80cd3dfef3fb757f075
+16:17:38.078 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:17:49.566 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:17:49.567 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:18:07.544 T:6052  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:18:09.095 T:6052   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:18:09.626 T:4696 WARNING: [FanFilm] Object Not Found : 404
+16:18:10.249 T:11728 WARNING: Previous line repeats 2 times.
+16:18:10.249 T:11728   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'pylast.WSError'>
+                                            Error Contents: Authentication Failed - You do not have permissions to access the service
+                                            Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 350, in <module>
+                                                elif mode == 3: LastFMTube().getTopTracks(user, pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 250, in getTopTracks
+                                                network = pylast.LastFMNetwork(api_key=API_KEY, api_secret=API_SECRET, username=user, password_hash=pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 934, in __init__
+                                                "user": "user/%(name)s",
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 274, in __init__
+                                                self.username, self.password_hash)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1353, in get_session_key
+                                                doc = request.execute()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1233, in execute
+                                                response = self._download_response()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1224, in _download_response
+                                                self._check_response_for_errors(response_text)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1253, in _check_response_for_errors
+                                                raise WSError(self.network, status, details)
+                                            WSError: Authentication Failed - You do not have permissions to access the service
+                                            -->End of Python script error report<--
+16:18:10.456 T:12112   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://plugin.audio.lastfmtube/?url=&mode=3&name=Top+Tracks&user=Enter+Username&pwd=b3b727345651d80cd3dfef3fb757f075&reload=20181209144108
+16:18:13.235 T:14708  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:18:13.281 T:7516  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:18:13.319 T:7516  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:18:13.956 T:7516   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:18:13.967 T:7516  NOTICE: metahandler: No SQLite rows requiring update
+16:18:20.650 T:5888  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:18:20.695 T:5888  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:18:21.142 T:5888   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:18:21.148 T:5888  NOTICE: metahandler: No SQLite rows requiring update
+16:18:21.773 T:1044   ERROR: EXCEPTION: Non-Existent Control 111
+16:18:23.420 T:6520   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+16:18:24.221 T:12604  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:18:24.404 T:6520   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+16:18:24.711 T:12604   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:18:29.567 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:18:29.567 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:19:00.338 T:14928  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:19:01.765 T:14928   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:19:02.382 T:10964 WARNING: [FanFilm] Object Not Found : 404
+16:19:03.110 T:6148 WARNING: Previous line repeats 1 times.
+16:19:03.110 T:6148   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'pylast.WSError'>
+                                            Error Contents: Authentication Failed - You do not have permissions to access the service
+                                            Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 350, in <module>
+                                                elif mode == 3: LastFMTube().getTopTracks(user, pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 250, in getTopTracks
+                                                network = pylast.LastFMNetwork(api_key=API_KEY, api_secret=API_SECRET, username=user, password_hash=pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 934, in __init__
+                                                "user": "user/%(name)s",
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 274, in __init__
+                                                self.username, self.password_hash)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1353, in get_session_key
+                                                doc = request.execute()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1233, in execute
+                                                response = self._download_response()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1224, in _download_response
+                                                self._check_response_for_errors(response_text)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1253, in _check_response_for_errors
+                                                raise WSError(self.network, status, details)
+                                            WSError: Authentication Failed - You do not have permissions to access the service
+                                            -->End of Python script error report<--
+16:19:03.333 T:12112   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://plugin.audio.lastfmtube/?url=&mode=3&name=Top+Tracks&user=Enter+Username&pwd=b3b727345651d80cd3dfef3fb757f075&reload=20181209144108
+16:19:03.350 T:15260 WARNING: [FanFilm] Object Not Found : 404
+16:19:08.319 T:5516  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:19:08.400 T:13308  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:19:08.468 T:13308  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:19:09.387 T:13308   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:19:09.409 T:13308  NOTICE: metahandler: No SQLite rows requiring update
+16:19:09.569 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:19:09.569 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:19:14.263 T:8308  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:19:14.308 T:8308  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:19:14.804 T:8308   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:19:14.806 T:8308  NOTICE: metahandler: No SQLite rows requiring update
+16:19:17.315 T:6624  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:19:18.573 T:6624   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:19:19.147 T:11360   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'pylast.WSError'>
+                                            Error Contents: Authentication Failed - You do not have permissions to access the service
+                                            Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 350, in <module>
+                                                elif mode == 3: LastFMTube().getTopTracks(user, pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\plugin.audio.lastfmtube\default.py", line 250, in getTopTracks
+                                                network = pylast.LastFMNetwork(api_key=API_KEY, api_secret=API_SECRET, username=user, password_hash=pwd)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 934, in __init__
+                                                "user": "user/%(name)s",
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 274, in __init__
+                                                self.username, self.password_hash)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1353, in get_session_key
+                                                doc = request.execute()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1233, in execute
+                                                response = self._download_response()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1224, in _download_response
+                                                self._check_response_for_errors(response_text)
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.pylast\lib\pylast\__init__.py", line 1253, in _check_response_for_errors
+                                                raise WSError(self.network, status, details)
+                                            WSError: Authentication Failed - You do not have permissions to access the service
+                                            -->End of Python script error report<--
+16:19:19.449 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://plugin.audio.lastfmtube/?mode=3&name=Top%20Tracks&pwd=b3b727345651d80cd3dfef3fb757f075&url&user=Enter%20Username
+16:19:19.449 T:8512   ERROR: CGUIMediaWindow::GetDirectory(plugin://plugin.audio.lastfmtube/?mode=3&name=Top%20Tracks&pwd=b3b727345651d80cd3dfef3fb757f075&url&user=Enter%20Username) failed
+16:19:49.569 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:19:49.569 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:19:57.762 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:20:29.568 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:20:29.568 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:21:09.587 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:21:09.587 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:21:49.594 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:21:49.594 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:22:29.601 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:22:29.601 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:22:33.046 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting return
+16:22:33.046 T:8512   ERROR: CGUIMediaWindow::GetDirectory(return) failed
+16:23:09.601 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:23:09.601 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:23:21.389 T:8512   ERROR: Control 50 in window 10502 has been asked to focus, but it can't
+16:23:49.601 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:23:49.601 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:24:05.045 T:13112   ERROR: Unable to find plugin
+16:24:05.045 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://
+16:24:05.045 T:8512   ERROR: CGUIMediaWindow::GetDirectory(plugin://) failed
+16:24:12.311 T:8512   ERROR: Control 50 in window 10502 has been asked to focus, but it can't
+16:24:27.555 T:8512   ERROR: XFILE::CDirectory::GetDirectory - Error getting plugin://plugin.audio.polish.CAP/
+16:24:27.556 T:8512   ERROR: CGUIMediaWindow::GetDirectory(plugin://plugin.audio.polish.CAP/) failed
+16:24:29.601 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:24:29.601 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:24:47.091 T:15188   ERROR: EXCEPTION: Non-Existent Control 111
+16:24:47.307 T:1188   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\video
+16:24:47.323 T:1188   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\szejk\AppData\Roaming\Kodi\userdata\library\music
+16:24:51.840 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:24:55.084 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:24:57.517 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:24:59.518 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:25:04.826 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:25:09.608 T:11660   ERROR: Previous line repeats 1 times.
+16:25:09.608 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:25:09.608 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:25:18.257 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:25:18.385 T:7032   ERROR: CImageLoader::DoWork - Direct texture file loading failed for DefaultVideo.png
+16:25:22.980 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:25:26.543 T:8512   ERROR: Control 3 in window 13004 has been asked to focus, but it can't
+16:25:31.876 T:8512   ERROR: Control 3 in window 13003 has been asked to focus, but it can't
+16:25:49.615 T:11660   ERROR: Previous line repeats 4 times.
+16:25:49.615 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:25:49.615 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:26:16.569 T:11388  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:26:17.590 T:15140 WARNING: [FanFilm] Object Not Found : 404
+16:26:19.134 T:11388 WARNING: Previous line repeats 2 times.
+16:26:19.134 T:11388   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:26:22.848 T:14212  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:26:24.628 T:14752  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:26:24.677 T:14752  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:26:25.262 T:14752   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:26:25.264 T:14752  NOTICE: metahandler: No SQLite rows requiring update
+16:26:29.619 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:26:29.620 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:26:31.371 T:12448  NOTICE: ResolveURL: Initializing ResolveURL version: 6.3.4
+16:26:31.417 T:15284  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.2
+16:26:31.460 T:15284  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+16:26:31.932 T:15284   ERROR: metahandler: Error connecting to TMDB: HTTP Error 403: Forbidden
+16:26:31.934 T:12448   ERROR: C:\Users\szejk\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+16:26:31.935 T:15284  NOTICE: metahandler: No SQLite rows requiring update
+16:27:09.628 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:27:09.628 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:27:49.636 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:27:49.636 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:28:29.644 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:28:29.644 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:29:09.665 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:29:09.665 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:29:49.672 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:29:49.672 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:30:01.598 T:2000   ERROR: AddOnLog: PVR IPTV Simple Client: Unable parse EPG XML: expected <
+16:30:29.673 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:30:29.673 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:30:54.280 T:8512  NOTICE: Storing total System Uptime
+16:30:54.281 T:8512  NOTICE: Saving settings
+16:30:54.294 T:8512  NOTICE: Saving skin settings
+16:30:54.301 T:8512  NOTICE: stop all
+16:30:54.301 T:8512  NOTICE: stop player
+16:30:54.301 T:8512  NOTICE: ES: Stopping event server
+16:30:54.301 T:8512  NOTICE: stopping upnp
+16:30:54.347 T:1884  NOTICE: ES: UDP Event server stopped
+16:30:54.460 T:8512  NOTICE: CWebServer[8080]: Stopped
+16:30:54.481 T:8512  NOTICE: clean cached files!
+16:30:55.012 T:7152  NOTICE: Skin Helper Service --> Shutdown requested !
+16:30:55.013 T:7152  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 stopped
+16:30:55.441 T:13212  NOTICE: script.tv.show.next.aired: ### abort requested -- stopping background processing
+16:30:55.462 T:4172  NOTICE: NEXTUP SERVICE NOTIFICATION Service -> ======== STOP NEXTUP SERVICE NOTIFICATION ========
+16:30:55.471 T:4172 WARNING: CPythonInvoker(6, C:\Users\szejk\AppData\Roaming\Kodi\addons\service.nextup.notification\service.py): the python script "C:\Users\szejk\AppData\Roaming\Kodi\addons\service.nextup.notification\service.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon,class XBMCAddon::xbmc::Player,class XBMCAddon::xbmcaddon::Addon
+16:30:57.471 T:15192  NOTICE: Skin Helper Widgets --> Backgroundservice stopped
+16:30:58.531 T:15336  NOTICE: Skin Helper Backgrounds --> Abort requested !
+16:30:58.531 T:15336  NOTICE: Skin Helper Backgrounds --> Stopped
+16:30:58.553 T:15336 WARNING: CPythonInvoker(25, C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\service.py): the python script "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\service.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcaddon::Addon,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmcaddon::Addon
+16:30:58.581 T:8512  NOTICE: closing down remote control service
+16:30:58.581 T:8512  NOTICE: stopped
+16:30:58.782 T:8512  NOTICE: destroy
+16:30:58.782 T:8512  NOTICE: unload skin
+16:30:59.500 T:10340  NOTICE: [Artist Slideshow] script stopped
+16:31:00.940 T:8100   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'socket.error'>
+                                            Error Contents: (10061, 'Nie mozna nawiazac polaczenia, poniewaz komputer docelowy aktywnie go odmawia')
+                                            Traceback (most recent call last):
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\service.smartish.widgets\service.py", line 5, in <module>
+                                                serviceFunctions.Main()
+                                              File "C:\Users\szejk\AppData\Roaming\Kodi\addons\service.smartish.widgets\serviceFunctions.py", line 100, in __init__
+                                                clientsocket.connect( ( "localhost", int( __addon__.getSetting( "port" ) ) ) )
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\socket.py", line 228, in meth
+                                                return getattr(self._sock,name)(*args)
+                                            error: (10061, 'Nie mozna nawiazac polaczenia, poniewaz komputer docelowy aktywnie go odmawia')
+                                            -->End of Python script error report<--
+16:31:00.949 T:8288  NOTICE: Skin Helper Backgrounds --> Abort requested !
+16:31:00.950 T:8288  NOTICE: Skin Helper Backgrounds --> Stopped
+16:31:00.972 T:8288 WARNING: CPythonInvoker(26, C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\service.py): the python script "C:\Users\szejk\AppData\Roaming\Kodi\addons\script.skin.helper.backgrounds\service.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmcgui::Window,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmc::Monitor,class XBMCAddon::xbmcaddon::Addon,class XBMCAddon::xbmcaddon::Addon
+16:31:01.583 T:8512  NOTICE: unload sections
+16:31:01.593 T:8512  NOTICE: special://profile/ is mapped to: special://masterprofile/
+16:31:01.596 T:8512  NOTICE: PVRManager - stopping
+16:31:09.674 T:11660   ERROR: CCurlFile::FillBuffer - Failed: Timeout was reached(28)
+16:31:09.674 T:11660   ERROR: CCurlFile::Open failed with code 0 for http://127.0.0.1:8089/api/version.html
+16:31:10.689 T:12972   ERROR: AddOnLog: VDR VNSI Client: cVNSISession::Login - failed to read greeting from server
+16:31:10.721 T:8512  NOTICE: application stopped...
